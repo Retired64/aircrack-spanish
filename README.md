@@ -73,7 +73,7 @@ uso: aircrack-ng [opciones] <archivo(s) de entrada>
   Otras opciones:
 
       -u         : Muestra # de CPUs y soporte SIMD
-      --ayuda    : Muestra esta pantalla de uso
+      --help    : Muestra esta pantalla de uso
 ```
 
 Espero que esto sea útil para entender cómo utilizar las diferentes opciones y comandos disponibles en `aircrack-ng`.
